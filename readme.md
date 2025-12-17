@@ -15,6 +15,30 @@
 </div>
 <br>
 
+---
+
+## 🏆 Competitive Programming Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/sahtiwk">
+  <img src="https://leetcard.jacoblin.cool/sahtiwk?theme=dark&font=Segoe%20UI&ext=contest" alt="LeetCode Stats" />
+</a>
+
+<br><br>
+
+<a href="https://codeforces.com/profile/sahtiwk">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sahtiwk&theme=dark" alt="CodeForces Stats" />
+</a>
+
+<br><br>
+
+<a href="https://www.codechef.com/users/sahtiwk">
+  <img src="https://img.shields.io/badge/CodeChef-sahtiwk-5B432C?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+</a>
+
+</div>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathwik-dudipala-0b65b5262?) 
 
