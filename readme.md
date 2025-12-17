@@ -2,7 +2,7 @@
       <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </header>
 <div align="center">
-  <h1><b>Sathwik Reddy Dudipala✨</b></h1>
+  <h1><b>Sathwik Reddy Dudipala</b></h1>
 </div>
 
 <p align="center">
