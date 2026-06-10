@@ -4,10 +4,6 @@
 <div align="center">
   <h1><b>Sathwik Reddy Dudipala</b></h1>
 </div>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=F73A65&center=true&vCenter=true&lines=Android+Developer+%7C+Kotlin+Enthusiast;DSA+Solver+%7C+C%2B%2B+STL+Master;Data+Science+%7C+NLP+%26+Scikit-Learn" />
-</p>
 <div align="center" style="margin-top:100px">
   <p align="center">
     A passionate developer mastering Data Structures & Algorithms in C++ and building native Android applications with Kotlin. From tracking daily coding problems to exploring Natural Language Processing, I turn logic into clean, functional software. ⚡
